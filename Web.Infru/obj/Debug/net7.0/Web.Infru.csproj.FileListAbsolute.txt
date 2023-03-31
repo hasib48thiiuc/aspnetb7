@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\bin\Debug\net7.0\Web.Infru.deps.json
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\bin\Debug\net7.0\Web.Infru.runtimeconfig.json
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\bin\Debug\net7.0\Web.Infru.dll
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\bin\Debug\net7.0\Web.Infru.pdb
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.dll
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\refint\Web.Infru.dll
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.pdb
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\Web.Infru.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Solution7CRUD\Web.Infru\obj\Debug\net7.0\ref\Web.Infru.dll

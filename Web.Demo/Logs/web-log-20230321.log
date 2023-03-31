@@ -1,0 +1,54 @@
+2023-03-21 00:38:57.846 +06:00 [INF] the app is starting
+2023-03-21 00:39:07.604 +06:00 [INF]  i am in index
+2023-03-21 00:39:32.736 +06:00 [INF]  i am in index
+2023-03-21 00:39:33.712 +06:00 [INF]  i am in index
+2023-03-21 00:40:55.239 +06:00 [INF]  i am in index
+2023-03-21 00:40:57.988 +06:00 [INF]  i am in index
+2023-03-21 00:41:11.304 +06:00 [INF]  i am in index
+2023-03-21 00:43:20.826 +06:00 [INF] the app is starting
+2023-03-21 00:44:01.237 +06:00 [INF] the app is starting
+2023-03-21 00:44:30.545 +06:00 [INF]  i am in index
+2023-03-21 11:34:45.800 +06:00 [INF] the app is starting
+2023-03-21 11:36:21.426 +06:00 [INF]  i am in index
+2023-03-21 11:39:28.777 +06:00 [INF] User created a new account with password.
+2023-03-21 11:39:37.462 +06:00 [WRN] The temp data cookie .AspNetCore.Mvc.CookieTempDataProvider could not be loaded.
+System.Security.Cryptography.CryptographicException: The payload was invalid. For more information go to http://aka.ms/dataprotectionwarning
+   at Microsoft.AspNetCore.DataProtection.Cng.CbcAuthenticatedEncryptor.DecryptImpl(Byte* pbCiphertext, UInt32 cbCiphertext, Byte* pbAdditionalAuthenticatedData, UInt32 cbAdditionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.Cng.Internal.CngAuthenticatedEncryptorBase.Decrypt(ArraySegment`1 ciphertext, ArraySegment`1 additionalAuthenticatedData)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.UnprotectCore(Byte[] protectedData, Boolean allowOperationsOnRevokedKeys, UnprotectStatus& status)
+   at Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector.Unprotect(Byte[] protectedData)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.CookieTempDataProvider.LoadTempData(HttpContext context)
+2023-03-21 11:39:46.549 +06:00 [INF] User logged in.
+2023-03-21 11:39:53.022 +06:00 [INF]  i am in index
+2023-03-21 15:15:17.773 +06:00 [INF] the app is starting
+2023-03-21 15:15:43.097 +06:00 [INF]  i am in index
+2023-03-21 15:16:28.402 +06:00 [INF]  i am in index
+2023-03-21 15:23:44.898 +06:00 [INF] the app is starting
+2023-03-21 15:24:00.578 +06:00 [INF]  i am in index
+2023-03-21 15:24:50.992 +06:00 [INF] the app is starting
+2023-03-21 15:24:56.658 +06:00 [INF]  i am in index
+2023-03-21 15:25:03.799 +06:00 [INF]  i am in index
+2023-03-21 15:25:09.375 +06:00 [INF]  i am in index
+2023-03-21 15:25:11.518 +06:00 [INF]  i am in index
+2023-03-21 15:32:11.226 +06:00 [INF] the app is starting
+2023-03-21 15:32:20.275 +06:00 [INF]  i am in index
+2023-03-21 15:32:27.348 +06:00 [INF]  i am in index
+2023-03-21 15:32:30.042 +06:00 [INF]  i am in index
+2023-03-21 15:32:30.820 +06:00 [INF]  i am in index
+2023-03-21 15:32:31.058 +06:00 [INF]  i am in index
+2023-03-21 15:32:31.562 +06:00 [INF]  i am in index
+2023-03-21 15:32:31.620 +06:00 [INF]  i am in index
+2023-03-21 15:32:31.786 +06:00 [INF]  i am in index
+2023-03-21 15:32:31.963 +06:00 [INF]  i am in index
+2023-03-21 15:32:32.201 +06:00 [INF]  i am in index
+2023-03-21 15:32:32.427 +06:00 [INF]  i am in index
+2023-03-21 15:32:32.677 +06:00 [INF]  i am in index
+2023-03-21 15:32:37.584 +06:00 [INF]  i am in index
+2023-03-21 15:39:52.452 +06:00 [INF]  i am in index
+2023-03-21 15:42:24.996 +06:00 [INF] User created a new account with password.
+2023-03-21 15:43:02.903 +06:00 [INF]  i am in index
+2023-03-21 22:24:05.423 +06:00 [INF] the app is starting
+2023-03-21 22:24:17.950 +06:00 [INF]  i am in index
+2023-03-21 22:27:00.728 +06:00 [INF] User logged in.
+2023-03-21 22:31:22.566 +06:00 [INF] the app is starting
+2023-03-21 22:31:31.232 +06:00 [INF]  i am in index
